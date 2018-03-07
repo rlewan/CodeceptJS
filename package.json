@@ -36,7 +36,7 @@
     "inquirer": "^0.11.0",
     "js-function-reflector": "^1.3.0",
     "mkdirp": "^0.5.1",
-    "mocha": "^3.1.2",
+    "mocha": "^5.0.3",
     "requireg": "^0.1.5"
   },
   "devDependencies": {
